@@ -25,8 +25,19 @@ The sales process at SAPL operates through various stages in the sales funnel:
 - **D1: Process Map for the Funnel**
 - **D2: Funnel Dashboard**
 - **D3: Insights Deck**
+- 
+## Requirements
+The project uses Sql and Excel. 
 
+## Certificate
+Please Find The Certificate Link Here (https://drive.google.com/file/d/1zrHq7-9j587XmhJd5kcwSAcKhKJOnBs0/view?usp=drive_link)
 
+## Project Presantation
+(https://docs.google.com/presentation/d/1nH1Annik7Ug8xlhR3X7oezBj3cHhDWmeAfmPPu4WSGw/edit?usp=drive_link)
 
-[Specify the project's license, if any.]
+Name : Ashish Kumar
+Mob  : 9582570740
+
+---
+
 
